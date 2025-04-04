@@ -17,7 +17,7 @@ body {
 }
 
 p {
-    font-size: clamp(1.3em, 1.5em, 30px);
+    font-size: clamp(10px, 1.5em, 30px);
     color: #FCFBFB;
 }
 
@@ -188,5 +188,8 @@ button {
 
     h1 {
         color: #fff;
+    }
+    p{
+        font-size: small;
     }
 }
